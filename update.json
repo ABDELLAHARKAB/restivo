@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "release_date": "2026-03-19",
+  "min_version": "1.0.0",
+  "download_url": "https://github.com/ABDELLAHARKAB/restivo_app/releases/download/v2.0.0/Ristivo_v2.0.0.zip",
+  "size": 15728640,
+  "md5": "هنا ضع بصمة الملف",
+  "required": true,
+  "changelog": {
+    "ar": "ما الجديد في الإصدار 2.0.0:\n• إضافة نظام التحديث التلقائي عبر GitHub\n• تحسين الأداء بشكل كبير\n• إصلاح مشكلة الترخيص\n• واجهة مستخدم محسنة"
+  }
+}
